@@ -1,2 +1,3 @@
 # eleicoes22
-Código que mostrava as apurações para presidente
+Código feito em Python que mostrava as apurações para presidente
+- Instalar as dependências :)
